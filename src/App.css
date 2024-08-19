@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.content p, .content li {
+  text-align: left;
+  margin-left: 20px;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.markdown-content {
+  flex: 1; 
+  padding: 20px;
+  text-align: left;
+}
+
+.markdown-content li {
+  margin-left: 20px; /* Apply margin to p and li within markdown */
+}
+
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: rgb(0, 0, 0)
+}
