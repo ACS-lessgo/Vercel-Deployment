@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 
-My background includes building APIs and triggers using Java, and creating widgets with Vue.js, having good knowledge in both backend and frontend development.
+As a Web developer, I am committed to advancing my expertise in the realm of web development. Armed with a solid background in coding and a deep appreciation for creating seamless and aesthetically pleasing websites, I am prepared to put my skills into practice within a professional context.
 
 - 🌍 I'm based in **Bangalore, India**
 - ✉️ You can contact me at [ankushcs3327@gmail.com](mailto:ankushcs3327@gmail.com)
@@ -23,9 +23,9 @@ My background includes building APIs and triggers using Java, and creating widge
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 ### **Backend Development:**
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### **Databases:**
@@ -33,8 +33,9 @@ My background includes building APIs and triggers using Java, and creating widge
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Deployment & DevOps:**
+### **Deployment:**
 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
@@ -54,27 +55,31 @@ My background includes building APIs and triggers using Java, and creating widge
 
 ## 🛠️ Projects
 
-## [StreamPulse](https://github.com/ACS-lessgo/StreamPulse)
+# Ericsson Data Management Widgets  
 
-A media streaming platform built with modern web technologies. This project showcases the integration of various tech stacks to create a seamless user experience.
+A suite of tools designed to streamline data migration and validation between legacy systems and modern servers. This project highlights seamless integration of APIs and intuitive user interfaces to enhance operational efficiency.
 
-### Features
+## Features  
 
-- Media playback with no latency from any remote location
-- Tested the system's ability to handle thousands of concurrent users and optimized load balancing to maintain smooth performance.
-- Focused on minimizing streaming lag and ensuring reliable data delivery
+### Replica Widget  
+- Facilitated data migration from an old PRIM server to a 3DS server.  
+- Developed a search functionality to retrieve data from the PRIM server, displaying results in a tabular format.  
+- Enabled data selection and import, creating background jobs for the migration process.  
+- Implemented automated notifications upon job completion, providing a product link via email.  
 
-### What I Worked On
+### Product Validation Widget  
+- Allowed drag-and-drop functionality for data imported via the Replica Widget.  
+- Enabled users to modify specific fields using an "Edit" feature, with access controlled by user permissions.  
 
-- Designed and implemented the user interface to ensure an intuitive and responsive user experience.
-- User authentication and management using GAuth
+## What I Worked On  
+- Designed and implemented the user interface to ensure smooth and user-friendly interactions.  
+- Created Java APIs for handling server-side operations and optimized integration.  
+- Utilized pre-developed integration APIs to facilitate communication between the legacy PRIM server and the 3DS server.  
+- Developed front-end logic in Vue.js to interact seamlessly with the back-end services.  
 
-### Technologies Used
-
-- Vue
-- Dynamo DB
-- TailwindCSS
-- AWS S3 Buckets
+## Technologies Used  
+- Vue.js  
+- Java 
 
 ---
 
