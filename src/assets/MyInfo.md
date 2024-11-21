@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 
-As a Web developer, I am committed to advancing my expertise in the realm of web development. Armed with a solid background in coding and a deep appreciation for creating seamless and aesthetically pleasing websites, I am prepared to put my skills into practice within a professional context.
+My background includes building APIs and triggers using Java, creating widgets with Vue.js, having good knowledge in both backend and frontend development.
 
 - 🌍 I'm based in **Bangalore, India**
 - ✉️ You can contact me at [ankushcs3327@gmail.com](mailto:ankushcs3327@gmail.com)
@@ -80,6 +80,7 @@ A suite of tools designed to streamline data migration and validation between le
 ## Technologies Used  
 - Vue.js  
 - Java 
+
 
 ---
 
