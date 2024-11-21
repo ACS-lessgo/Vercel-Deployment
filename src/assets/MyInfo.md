@@ -55,7 +55,7 @@ My background includes building APIs and triggers using Java, creating widgets w
 
 ## 🛠️ Projects
 
-# Data Management Widgets  
+# 1) Data Management Widgets  
 
 A suite of tools designed to streamline data migration and validation between legacy systems and modern servers. This project highlights seamless integration of APIs and intuitive user interfaces to enhance operational efficiency.
 
@@ -83,7 +83,7 @@ A suite of tools designed to streamline data migration and validation between le
 
 ---
 
-# File Comparison Tool
+# 2) File Comparison Tool
 
 A web application for file comparison. This tool simplifies the process of identifying differences between two files, such as XLF or plain text, and provides an easy-to-use interface for users.
 
