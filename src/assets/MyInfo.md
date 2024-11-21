@@ -55,7 +55,7 @@ My background includes building APIs and triggers using Java, creating widgets w
 
 ## 🛠️ Projects
 
-# Ericsson Data Management Widgets  
+# Data Management Widgets  
 
 A suite of tools designed to streamline data migration and validation between legacy systems and modern servers. This project highlights seamless integration of APIs and intuitive user interfaces to enhance operational efficiency.
 
