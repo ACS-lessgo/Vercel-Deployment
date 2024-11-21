@@ -85,7 +85,7 @@ A suite of tools designed to streamline data migration and validation between le
 
 # File Comparison Tool
 
-A web-based application designed for seamless file comparison and content validation. This tool simplifies the process of identifying differences between two files, such as XLF or plain text, and provides an easy-to-use interface for users.
+A web application for file comparison. This tool simplifies the process of identifying differences between two files, such as XLF or plain text, and provides an easy-to-use interface for users.
 
 ## Features
 
