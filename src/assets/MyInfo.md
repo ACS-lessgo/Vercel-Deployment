@@ -82,6 +82,39 @@ A suite of tools designed to streamline data migration and validation between le
 - Java 
 
 
+# File Comparison Tool
+
+A web-based application designed for seamless file comparison and content validation. This tool simplifies the process of identifying differences between two files, such as XLF or plain text, and provides an easy-to-use interface for users.
+
+## Features
+
+### File Comparison Widget
+- **File Upload:**  
+  Allows users to upload two files (Old File and New File) via drag-and-drop or input selection.  
+- **File Validation:**  
+  Ensures files are uploaded correctly and checks if file extensions match to maintain compatibility.  
+- **Smart Diffing:**  
+  Utilizes `diff-match-patch` to identify differences between file contents, including semantic cleanup.  
+- **Delta Preview:**  
+  Displays a styled HTML preview of the file differences.  
+- **Export Differences:**  
+  Offers a "Download" feature to save the comparison results as a `.doc` file.  
+
+### Reset and Alerts
+- Provides a "Reset" button to clear all inputs and restore the tool to its initial state.  
+- Alerts users when files with mismatched extensions are uploaded.  
+
+## What I Worked On
+- Designed the user interface using Vue.js and Vuetify.  
+- Integrated `diff-match-patch` for efficient and accurate comparison of file contents.  
+- Developed logic for handling XLF file-specific text extraction and semantic difference cleanup.  
+- Implemented file handling mechanisms with `FileReader` to process file inputs and generate outputs dynamically.  
+
+## Technologies Used
+- Vue.js  
+- Vuetify  
+- `diff-match-patch`  
+- JavaScript  
 ---
 
 ## 💼 Experience
